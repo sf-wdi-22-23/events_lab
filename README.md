@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # DOM Events & jQuery
 In the following exercises you will play with five of the most common DOM `events` in jQuery:
 - ready
@@ -94,4 +93,3 @@ Message about your experience goes here
 ```
 
 Replace the `#`s next to comfort and completness with a number (1 - 5) to represent how comfortable you are with the topic and how much of the assignment you were able to complete.  A 1 is the lowest (least comfortable / very little complete), and a 5 is the highest (most comfortable / fully complete).
->>>>>>> 30a1fe0024b665f82d59f5fade6b2486d26ae3a7
